@@ -1,0 +1,6 @@
+E:\Visual Basic 2019\OOP-Lenkap\OOP-Lenkap\bin\Debug\OOP-Lenkap.exe.config
+E:\Visual Basic 2019\OOP-Lenkap\OOP-Lenkap\bin\Debug\OOP-Lenkap.exe
+E:\Visual Basic 2019\OOP-Lenkap\OOP-Lenkap\bin\Debug\OOP-Lenkap.pdb
+E:\Visual Basic 2019\OOP-Lenkap\OOP-Lenkap\obj\Debug\OOP-Lenkap.csprojAssemblyReference.cache
+E:\Visual Basic 2019\OOP-Lenkap\OOP-Lenkap\obj\Debug\OOP-Lenkap.exe
+E:\Visual Basic 2019\OOP-Lenkap\OOP-Lenkap\obj\Debug\OOP-Lenkap.pdb
